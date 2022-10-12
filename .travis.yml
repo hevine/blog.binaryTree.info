@@ -15,8 +15,4 @@ deploy:
   keep-history: true
   on:
     branch: master
-<<<<<<< HEAD
   local-dir: public
-=======
-  local-dir: public
->>>>>>> master
